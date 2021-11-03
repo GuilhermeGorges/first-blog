@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Guilherme",
+      "message": "Welcome to my blog"
+    },
+    {
+      "id": 2,
+      "name": "Daniela",
+      "message": "This blog is so cool"
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "message": "This blog is awful"
+    },
+    {
+      "name": "Valentina",
+      "message": "Hello",
+      "id": 4
+    }
+  ]
+}
